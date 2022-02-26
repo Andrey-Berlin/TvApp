@@ -67,5 +67,7 @@ let source1 = document.getElementById("source1");
 source1.src = links[0];
 let source2 = document.getElementById('source2');
 source2.src = links[1];
+
+footer.innerHTML = `<p>С уважением, Берлин Андрей! :)</p>`;
 }
 audioPlayer();
