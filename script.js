@@ -377,7 +377,7 @@ for (var i = 0; i < links.length; i++) { //Поиск всех <a> с интер
         video.removeAttribute('poster');
         video.load(); //загрузка в аудиоплеер интернет ресурс
         video.play(); //включение аудиоплеера с интернет ресурсом
-        console.log(vide);
+        console.log(video);
 
 
 
